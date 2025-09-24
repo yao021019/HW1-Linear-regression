@@ -31,3 +31,6 @@ Allow users to adjust parameters (n, a, var) via sliders or input fields.
 Display the generated plot and regression results. remember to update the promptRecord.md and log.md
 - please move all documents in 物聯網數據分析與應用 into LinearRegression folder in the same folder
 - please remember to update promptRecord.md and log.md whatever i say and you do
+- sorry i forget to ask you to generate a readme.md
+- put the implement website in readme https://hw1-linear-regression-il9jovg8kyvqrsbsmhzgai.streamlit.app/
+- please update promptRecord.md and log.md

@@ -17,3 +17,8 @@
 - Updated `log.md` to reflect the changes made to `app.py`.
 - Moved `app.py`, `log.md`, `promptRecord.md`, `requirements.txt`, and `steps.md` into the `LinearRegression` directory.
 - Saved the user's preference to update `promptRecord.md` and `log.md` for future interactions.
+- Generated a `README.md` file for the project.
+- Pushed the `README.md` file to the GitHub repository.
+- Updated the `README.md` file with the live demo URL.
+- Pushed the updated `README.md` file to the GitHub repository.
+- Updated `promptRecord.md` and `log.md`.
