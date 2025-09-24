@@ -1,0 +1,19 @@
+# Log
+
+- Created `promptRecord.md` to record user prompts.
+- Created `log.md` to record actions taken.
+- Created `steps.md` with a summary of the steps for the linear regression project.
+- Created `requirements.txt` with the project dependencies.
+- Installed the dependencies using pip.
+- Created the Streamlit application file `app.py`.
+- Updated `app.py` to include:
+    - User-selectable `n` (number of points) from 100 to 1000.
+    - User-selectable `a` (coefficient) from -10 to 10.
+    - User-selectable `var` (noise variance) from 0 to 1000.
+    - Identification and labeling of the top 5 outliers.
+    - An interactive Streamlit interface with sliders for parameters.
+    - A plot showing the data, regression line, and outliers.
+- Updated `promptRecord.md` with the latest user prompt.
+- Updated `log.md` to reflect the changes made to `app.py`.
+- Moved `app.py`, `log.md`, `promptRecord.md`, `requirements.txt`, and `steps.md` into the `LinearRegression` directory.
+- Saved the user's preference to update `promptRecord.md` and `log.md` for future interactions.
