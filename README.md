@@ -2,6 +2,10 @@
 
 This project is a Python application that demonstrates simple linear regression, following the CRISP-DM (Cross-Industry Standard Process for Data Mining) methodology. The application is built using Streamlit, allowing users to interactively explore the concepts of linear regression.
 
+## Live Demo
+
+You can access the live demo of the application here: [https://hw1-linear-regression-il9jovg8kyvqrsbsmhzgai.streamlit.app/](https://hw1-linear-regression-il9jovg8kyvqrsbsmhzgai.streamlit.app/)
+
 ## Features
 
 -   **Data Generation:** Generate synthetic data based on the linear equation `y = ax + b + noise`.
